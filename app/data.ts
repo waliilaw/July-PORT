@@ -73,7 +73,7 @@ export const PROJECTS: Project[] = [
     name: 'K-V0',
     github:'https://github.com/waliilaw' , 
     description:
-      'Launching in Jan2026',
+      'Launching in Mar-2026',
     link: 'https://waliilaw.me',
     video : '/k.mp4',
     id: 'project8',
@@ -84,7 +84,7 @@ export const PROJECTS: Project[] = [
     name: 'C-V0',
     github:'https://github.com/waliilaw' , 
     description:
-      'Launching in Jan2026',
+      'Launching in Mar-2026',
     link: 'https://waliilaw.me',
    video : '/c.mp4',
     id: 'project7',
